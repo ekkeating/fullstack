@@ -6,7 +6,7 @@ namespace api
         public string cs {get;set;}
         public Config()
         {
-            cs= @"URI=/Users/kincaidkeating/Desktop/SOURCE/spring23/fullstack/api/Config.cs/test.db";
+            cs= @"URI=/Users/kincaidkeating/Desktop/SOURCE/spring23/fullstack/api/test.db";
         }
     }
 }

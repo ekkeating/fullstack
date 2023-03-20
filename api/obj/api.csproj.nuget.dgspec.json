@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kincaidkeating/Desktop/SOURCE/spring23/fullstack/api/api.csproj": {}
+    "/Users/kincaidkeating/Desktop/SOURCE/spring23/fullstack/fullstack/api/api.csproj": {}
   },
   "projects": {
-    "/Users/kincaidkeating/Desktop/SOURCE/spring23/fullstack/api/api.csproj": {
+    "/Users/kincaidkeating/Desktop/SOURCE/spring23/fullstack/fullstack/api/api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kincaidkeating/Desktop/SOURCE/spring23/fullstack/api/api.csproj",
+        "projectUniqueName": "/Users/kincaidkeating/Desktop/SOURCE/spring23/fullstack/fullstack/api/api.csproj",
         "projectName": "api",
-        "projectPath": "/Users/kincaidkeating/Desktop/SOURCE/spring23/fullstack/api/api.csproj",
+        "projectPath": "/Users/kincaidkeating/Desktop/SOURCE/spring23/fullstack/fullstack/api/api.csproj",
         "packagesPath": "/Users/kincaidkeating/.nuget/packages/",
-        "outputPath": "/Users/kincaidkeating/Desktop/SOURCE/spring23/fullstack/api/obj/",
+        "outputPath": "/Users/kincaidkeating/Desktop/SOURCE/spring23/fullstack/fullstack/api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kincaidkeating/.nuget/NuGet/NuGet.Config"

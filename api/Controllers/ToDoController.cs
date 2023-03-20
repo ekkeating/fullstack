@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using api.Models;
 using api.DataAccess;
+using Microsoft.AspNetCore.Cors;
 
 namespace api.Controllers
 {
@@ -14,7 +15,9 @@ namespace api.Controllers
     public class ToDoController : ControllerBase
     {
         // GET: api/ToDo
-        [HttpGet]
+
+        [EnableCors("OpenPolicy")]
+        [HttpGet(Name = "GetToDos")]
         public List<ToDos> Get()
         {
             List<ToDos> myToDos = new List<ToDos>();
